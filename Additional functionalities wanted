@@ -1,0 +1,13 @@
+Additional functionalities:
+
+Easy switch between different page:
+	Solution: Extract all icons for different pages into tabs and stored them in a menu (hamburger) that's visible in all pages.
+
+Deck editing page
+
+AR mode in main page
+
+Hamburger menu in battle mode
+	could be combined with the solution for easy switching
+
+Social network compatibility
